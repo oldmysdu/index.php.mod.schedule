@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+        input, textarea, select {
+            font-size: 100%;
+        }
+        body, td, input, textarea, select {
+            font-family: arial, sans-serif;
+            margin: 0px;
+        }
+        .r1{
+            border-collapse: inherit;
+            border-spacing: 2px 2px;
+        }
+    
+        .c {
+            vertical-align: top;
+            padding: 6px;
+            white-space: nowrap
+        }
+        .cbord{
+                    border-bottom: 2px solid #FAD163;
+            border-top-style: none;
+    }
+        .c1{
+            width: 15%;
+        }
+        .t1{
+            border-collapse: collapse;
+            border: none;
+    }
+        .ct{
+            font-weight: bold;
+        }
+        .clTblCourses {
+            width: 100%;
+            table-layout: fixed;
+            font-family: arial,sans-serif;
+            border-collapse: collapse;
+            margin: 0px
+        }
+         .clTbl {
+            width: 100%;
+            /*table-layout: fixed;*/
+            font-family: arial,sans-serif;
+            border-collapse: collapse;
+            margin: 0px;
+            border-color: #0000BB;
+            background-color: white;
+        }
+        .tdCh {
+            background-color: #E6EB89;
+        }
+        .cta {
+            border: 1px solid #D6D6D6;
+            padding: 2px;
+            margin: 0px;
+        }
+         .ctg {
+            border: 1px solid #FAD163;			
+            padding: 2px;
+            margin: 0px;
+            vertical-align: center;
+        }
+        .tdAPr {
+            color: red;
+               font-weight: bold
+        }
+        .ajLink{
+            color: red;
+    }
+    .crsTit {
+        text-align: center;
+    }
+    .grpTitle {
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .sSpn {
+        font-size: 80%
+    }
+    .btn {
+    height: 22px;
+    text-decoration: none;
+    }
+    .tdConfT {
+        font-size:14px;
+        font-weight:bold;
+        padding: 4px;
+        white-space:nowrap;
+        color: #555;
+    }
+    .spnConfTitle{
+        font-size:14px;
+    }
